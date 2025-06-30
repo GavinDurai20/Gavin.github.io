@@ -13,15 +13,14 @@ This project is part of my Web Development Internship assignment. It demonstrate
 | Add HTML, CSS, and JS files | ✅ |
 | Commit and push files using Git | ✅ |
 | Enable GitHub Pages (main branch, root) | ✅ |
-| Website visible at `https://<username>.github.io` | ✅ |
+| Website visible at `gavindurai20.github.io/Gavin.github.io/` | ✅ |
 | Able to update site via new commits | ✅ |
 
 ---
 
 ## 🌐 Live Site
 
-🔗 [https://<yourusername>.github.io](https://<yourusername>.github.io)  
-_(Replace `<yourusername>` with your actual GitHub username)_
+🔗 gavindurai20.github.io/Gavin.github.io/  
 
 ---
 
