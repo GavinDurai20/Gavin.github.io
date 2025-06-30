@@ -1,4 +1,4 @@
-# Web Development Internship Task – Portfolio Website
+# Web Development Internship Task – 5
 
 This project is part of my Web Development Internship assignment. It demonstrates my understanding of **version control**, **static web hosting**, and the **GitHub Pages deployment workflow**.
 
